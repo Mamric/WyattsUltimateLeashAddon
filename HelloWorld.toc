@@ -1,4 +1,4 @@
-## Interface: 11304
+## Interface: 11403
 ## Title: Wyatt's Ultimate Leash Addon
 ## Notes: Keeps track of your active mob leashes
 ## Author: scpWyatt
