@@ -12,7 +12,7 @@ local function HellowWorldHandler(name)
         showGreeting(name)
     else
         local playerName = UnitName("player")
-        showGreeting(name)
+        showGreeting(playerName)
     end
 end
 
